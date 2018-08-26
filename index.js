@@ -1,1 +1,1 @@
-var customerName;
+var customerName = 'Bob';
