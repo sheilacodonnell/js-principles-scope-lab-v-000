@@ -1,4 +1,6 @@
 var customerName = 'bob';
 customerName;
 
-function upperCaseCustomerName()
+function upperCaseCustomerName() {
+  customerName.upcase
+}
