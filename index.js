@@ -1,1 +1,3 @@
 var customerName = 'Bob';
+
+customerName;
