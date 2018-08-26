@@ -1,5 +1,5 @@
 var customerName = 'bob';
-customerName;
+const leastFavorite = 'joe'
 
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
@@ -18,5 +18,5 @@ function leastFavoriteCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-  const leastFavorite = 'joe'
+  
 }
