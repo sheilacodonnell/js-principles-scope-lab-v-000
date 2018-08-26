@@ -18,5 +18,5 @@ function leastFavoriteCustomer() {
 }
 
 function changeLeastFavoriteCustomer() {
-  leastFavorite = 'joe'
+  const leastFavorite = 'joe'
 }
